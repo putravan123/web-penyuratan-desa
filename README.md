@@ -46,9 +46,9 @@ php artisan db:seed --class=Allseeder
 # uml
 ![bismilah](https://github.com/user-attachments/assets/9024752d-e443-40a6-a4e3-6c3d172f8070)
 
-# Taruh Gambar INI di Storage
-![kop](https://github.com/user-attachments/assets/93e444c8-3bf2-4b85-a5c9-d621e9dff5b4)
-
+# Taruh Gambar INI di Public Storage 
+janagn lupa ganti nama fotonya jadi kop.png
+![kop](https://github.com/user-attachments/assets/39a0093b-bef0-4311-abf0-e5b8d6fa244c ) 
 
 # Teknologi Yang Di Gunakan
 - Laravel 11
@@ -114,7 +114,7 @@ php artisan storage:link
 
 ### Langkah 8: Generate Application Key
 
-- Langkah ini sangat penting untuk setiap aplikasi Laravel, karena tanpa kunci ini, beberapa fitur tidak akan berjalan sebagaimana mestinya jadi harus di jalankan ya perintanya kalo mau menggunakan Source Code ini ya semoga berhasil :blush: :
+- Langkah ini sangat penting untuk setiap aplikasi Laravel, karena tanpa kunci ini, beberapa fitur tidak akan berjalan sebagaimana mestinya  :
 
 ```
 php artisan key:generate
@@ -127,9 +127,6 @@ php artisan serve
 ```
 
 
-<p align="center">
-⚠️ <strong>Peringatan:</strong> Pastikan untuk menjalankan semua sesuai dengan urutan agar berjalan lancar.⚠️
-</p>
-<h1 align="center">Semoga Beruntung :blush:</h1>
+<h1 align="center">Tugas PKL</h1>
 
 
